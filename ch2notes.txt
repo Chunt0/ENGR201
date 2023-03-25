@@ -1,0 +1,53 @@
+Ch. 2
+-----
+
+Basic Laws
+
+Ohm's law = the voltage across a resistor is directly proportional to the current
+flowing through the resistor
+
+        v = i*R
+
+Resistance - R - of an element denotes its ability to resist the flow of electric
+current; measured in ohms
+
+        R = v/i
+        1 ohm =  1 V/A
+
+Current must flow from higher voltage to lower voltage in order for v = iR
+Current must flow from lower voltage to higher voltage in order for v = -iR
+
+An element with R = 0 is called a short circuit
+
+An element with R = inf is called an open circuit
+
+Resistor is either fixed or variable (potentiometer or pot)
+
+The reciprocal of resistance R is known as conductance Good
+
+        G = 1/R = i/v
+        1 S = 1 \invertedOmega = 1 A/V
+Conductance is a measure of how well an element will conduct electric current
+
+The power dissipated by a resistor is:
+        p = vi = i^2R = v^2/R
+        p = vi = v^2G = i^2/G
+
+
+---------------------------------------------------
+2.5 : Series Resistors and VOltage Division
+---------------------------------------------------
+Equivalent Resistance --> Any number of resistors connected in series is the sum
+of the individual resistances
+
+sum(R) = R_eq
+
+---------------------------------------------------
+2.6 : Parallel Resistors and Current Division
+---------------------------------------------------
+Equivalent Conductance --> Any number of resistors connected in parallel is the sum
+of their individual conductances
+
+sum(G) = G_eq
+
+
