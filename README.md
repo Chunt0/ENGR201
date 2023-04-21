@@ -1,12 +1,11 @@
 # ENGR201 DC Circuits
 
-This repository contains homework, labs, data, and other resources for the ENGR201 DC Circuits class.
+This repository contains homework, labs, data, and other resources for ENGR201 DC Circuits.
 
 ## Table of Contents
 
 - [Homework](#homework)
 - [Labs](#labs)
-- [Data](#data)
 - [Resources](#resources)
 
 ## Homework
